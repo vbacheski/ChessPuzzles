@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Chess Puzzles</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="puzzleTitle">
+        <item>Title1</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+        <item>Title6</item>
+        <item>Title7</item>
+        <item>Title8</item>
+        <item>Title9</item>
+        <item>Title10</item>
+    </string-array>
+
+    <string-array name="puzzleFEN">
+        <item>FEN1</item>
+        <item>FEN2</item>
+        <item>FEN3</item>
+        <item>FEN4</item>
+        <item>FEN5</item>
+        <item>FEN6</item>
+        <item>FEN7</item>
+        <item>FEN8</item>
+        <item>FEN9</item>
+        <item>FEN10</item>
+    </string-array>
+    <string name="title_activity_tournament">TournamentActivity</string>
+    <string name="title_activity_leaderboard_compose">LeaderboardComposeActivity</string>
+</resources>

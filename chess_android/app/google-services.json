@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806210467648",
+    "project_id": "chess-puzzles-9db5b",
+    "storage_bucket": "chess-puzzles-9db5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806210467648:android:eb6a637449bcacc8ebaca5",
+        "android_client_info": {
+          "package_name": "com.fict.chesspuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806210467648-a8c1d4qmju231n8va076f09qnbhn0ms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcG2bV94yAR_bMyIOZGNp359p6WVPYZDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806210467648-a8c1d4qmju231n8va076f09qnbhn0ms1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
